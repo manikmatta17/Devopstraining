@@ -1,1 +1,2 @@
 thisis file 2
+added details in main  to undersatnd fetch and pull
